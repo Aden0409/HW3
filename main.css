@@ -1,0 +1,40 @@
+div { 
+    font-family:微軟正黑體
+}
+td {
+    font-weight: 900;
+}
+
+table
+{
+    background:#fff09f;
+}
+.rect002 {
+    color: red
+}
+
+.rect004 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: 900;
+    color: #000;
+    line-height: 50px;
+    text-align: center;
+    background: #ffce00;
+}
+
+.rect005 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: 900;
+    color: #000;
+    line-height: 50px;
+    text-align: center;
+    background: red;
+}
